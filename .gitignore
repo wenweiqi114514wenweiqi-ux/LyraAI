@@ -1,0 +1,13 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 临时 / 系统目录
+.tmp-tool-results/
+.tmp/
+
+# 训练日志
+*.log
+
+# 系统文件
+.DS_Store
